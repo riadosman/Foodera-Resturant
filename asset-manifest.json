@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Foodera-Resturant/static/css/main.f65c11ef.css",
+    "main.js": "/Foodera-Resturant/static/js/main.5fbcbf52.js",
+    "static/media/bg.jpg": "/Foodera-Resturant/static/media/bg.67ff55db393d2308818b.jpg",
+    "index.html": "/Foodera-Resturant/index.html",
+    "main.f65c11ef.css.map": "/Foodera-Resturant/static/css/main.f65c11ef.css.map",
+    "main.5fbcbf52.js.map": "/Foodera-Resturant/static/js/main.5fbcbf52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f65c11ef.css",
+    "static/js/main.5fbcbf52.js"
+  ]
+}
